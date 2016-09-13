@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">0906forUI</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string-array name="pention_name">
+        <item>초콜릿 펜션(예산)</item>
+        <item>라고체험 펜션(양평)</item>
+        <item>더 펜션(경주)</item>
+    </string-array>
+
+</resources>
